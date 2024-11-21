@@ -1,0 +1,14 @@
+/** @format */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: sans-serif;
+}
+
+.word-spacing {
+  word-spacing: 1rem; /* Ajusta el valor para más o menos espaciado */
+  line-height: 21px;
+}
